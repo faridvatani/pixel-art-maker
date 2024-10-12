@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pixel Art Maker
+
+<img src="Screenshot.png" alt="pixel art maker" />
+
+A simple pixel art maker built with Next.js and Tailwind CSS. Users can create pixel art by clicking on cells in a grid and selecting a color. The grid size can be adjusted, and users can choose from a color palette or input a custom color. This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Features
+
+- Interactive Grid: A grid of cells that can be clicked to change their color.
+- Dynamic Grid Size: Users can select the size of the grid.
+- Color Selection: Users can choose a color from a color input or a predefined color palette.
+- Reset Functionality: Users can reset the grid to its default state.
+- Real-time Updates: The grid updates in real-time as users interact with it.
 
 ## Getting Started
 
